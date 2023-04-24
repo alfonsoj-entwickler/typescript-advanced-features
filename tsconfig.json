@@ -110,6 +110,7 @@
     "node_modules"
   ],
   "include": [
-    "classes"
+    "classes",
+    "interfaces"
   ]
 }

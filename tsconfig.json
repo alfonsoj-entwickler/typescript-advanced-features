@@ -111,6 +111,7 @@
   ],
   "include": [
     "classes",
-    "interfaces"
+    "interfaces",
+    "namespaces"
   ]
 }
